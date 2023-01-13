@@ -1,2 +1,4 @@
-# meadowlark-developer-docs
-Official developer documentation for the Meadowlark DAW project
+# Meadowlark Developer Documentation
+The official developer documentation for the Meadowlark DAW project
+
+(WIP)
